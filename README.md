@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋🏼, I'm Mehrsa Mohajeri</h1>
+<h1 align="center">Hi 👋, I'm Mehrsa Mohajeri</h1>
 <h3 align="center">A Passionate Front-End Developer From Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrsa-mohajeri-developer&label=Profile%20views&color=0e75b6&style=flat" alt="mehrsa-mohajeri-developer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehrsa-mohajeri-developer" alt="mehrsa-mohajeri-developer" /></a> </p>
 
-- 🌱 I’m currently learning **Front-End**
-
 - 👨‍💻 All of my projects are available at [https://github.com/mehrsa-mohajeri-developer](https://github.com/mehrsa-mohajeri-developer)
 
-- 💬 Ask me about **HTML, HTML5,CSS, CSS3, SASS, Flex, Grid, Python.**
+- 💬 Ask me about **HTML, HTML5, CSS, CSS3, SASS, Flex, Grid, Python.**
 
 - 📫 How to reach me **mehrsa.mohajeri@yahoo.com**
 
