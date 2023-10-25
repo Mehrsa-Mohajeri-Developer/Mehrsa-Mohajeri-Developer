@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Mehrsa Mohajeri</h1>
+<h3 align="center">A Passionate Front-End Developer From Iran</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrsa-mohajeri-developer&label=Profile%20views&color=0e75b6&style=flat" alt="mehrsa-mohajeri-developer" /> </p>
+
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about HTML5, CSS3, SASS, Flex, Grid, Bootstrap, Tailwind, Javascript, React, Typescript, Python.<br>📫 How to reach me mehrsa.mohajeri@yahoo.com<br>👨‍💻 All of my projects are available at [GitHub](https://github.com/mehrsa-mohajeri-developer)<br>📄 Know about my experiences<br>⚡ Fun fact
 
