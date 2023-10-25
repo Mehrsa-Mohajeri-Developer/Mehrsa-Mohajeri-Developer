@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about HTML5, CSS3, SASS, Flex, Grid, Bootstrap, Tailwind, Javascript, React, Typescript, Python.<br>📫 How to reach me mehrsa.mohajeri@yahoo.com<br>👨‍💻 All of my projects are available at https://github.com/mehrsa-mohajeri-developer<br>📄 Know about my experiences<br>⚡ Fun fact
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about HTML5, CSS3, SASS, Flex, Grid, Bootstrap, Tailwind, Javascript, React, Typescript, Python.<br>📫 How to reach me mehrsa.mohajeri@yahoo.com<br>👨‍💻 All of my projects are available at [GitHub]https://github.com/mehrsa-mohajeri-developer<br>📄 Know about my experiences<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
@@ -20,9 +20,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mehrsa-Mohajeri-Developer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mehrsa-Mohajeri-Developer&icon=0&color=0)](https://visitcount.itsvg.in)
