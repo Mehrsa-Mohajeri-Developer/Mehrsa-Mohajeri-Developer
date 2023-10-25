@@ -1,27 +1,30 @@
-<h1 align="center">Hi 👋, I'm Mehrsa Mohajeri</h1>
-<h3 align="center">A Passionate Front-End Developer From Iran</h3>
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about HTML5, CSS3, SASS, Flex, Grid, Bootstrap, Tailwind, Javascript, React, Typescript, Python.<br>📫 How to reach me mehrsa.mohajeri@yahoo.com<br>👨‍💻 All of my projects are available at https://github.com/mehrsa-mohajeri-developer<br>📄 Know about my experiences<br>⚡ Fun fact
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrsa-mohajeri-developer&label=Profile%20views&color=0e75b6&style=flat" alt="mehrsa-mohajeri-developer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehrsa-mohajeri-developer" alt="mehrsa-mohajeri-developer" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mehrsa_mohajeri_developer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mehrsa-mohajeri-developer) 
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/mehrsa-mohajeri-developer)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mehrsa-Mohajeri-Developer&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mehrsa-Mohajeri-Developer&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrsa-Mohajeri-Developer&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 💬 Ask me about **HTML, HTML5, CSS, CSS3, SASS, Flex, Grid, Python.**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mehrsa-Mohajeri-Developer&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 📫 How to reach me **mehrsa.mohajeri@yahoo.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mehrsa-mohajeri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehrsa-mohajeri" height="30" width="40" /></a>
-<a href="https://instagram.com/mehrsa_mohajeri_developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehrsa_mohajeri_developer" height="30" width="40" /></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mehrsa-Mohajeri-Developer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehrsa-mohajeri-developer&show_icons=true&locale=en&layout=compact" alt="mehrsa-mohajeri-developer" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=Mehrsa-Mohajeri-Developer&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehrsa-mohajeri-developer&show_icons=true&locale=en" alt="mehrsa-mohajeri-developer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehrsa-mohajeri-developer&" alt="mehrsa-mohajeri-developer" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
