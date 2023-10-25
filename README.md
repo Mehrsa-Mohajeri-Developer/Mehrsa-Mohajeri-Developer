@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehrsa Mohajeri
->A Passionate Front-End Developer From Iran</h1>
+<h1 align="center">Hi 👋, I'm Mehrsa Mohajeri</h1>
 <h3 align="center">A Passionate Front-End Developer From Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrsa-mohajeri-developer&label=Profile%20views&color=0e75b6&style=flat" alt="mehrsa-mohajeri-developer" /> </p>
