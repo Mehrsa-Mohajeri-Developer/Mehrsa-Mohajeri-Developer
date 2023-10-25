@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehrsa Mohajeri</h1>
+<h4 align="center">Hi 👋, I'm Mehrsa Mohajeri</h4>
 <h3 align="center">A Passionate Front-End Developer From Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrsa-mohajeri-developer&label=Profile%20views&color=0e75b6&style=flat" alt="mehrsa-mohajeri-developer" /> </p>
@@ -26,6 +26,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mehrsa-Mohajeri-Developer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
