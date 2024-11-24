@@ -7,7 +7,7 @@
 
 ## 💫 About Me:
 - 💬 Ask me about: **HTML5, CSS3, SASS, Flex, Grid, Bootstrap, Tailwind, Javascript, React, Typescript, Python**
-- 📫 How to reach me: **mehrsa.mohajeri@yahoo.com**
+- 📫 How to reach me: **mehrsa.mohajeri2001@gmail.com**
 - 👨‍💻 All of my projects are available at: **[GitHub](https://github.com/mehrsa-mohajeri-developer)**
 - ⚡ About me: **I'm Mehrsa Mohajeri. A Front-End Developer. Here, you can see my projects and if you have any questions, please ask me. Hope you enjoy ♥️**
 
