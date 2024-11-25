@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrsa-mohajeri-developer&label=Profile%20views&color=0e75b6&style=flat" alt="mehrsa-mohajeri-developer" /> </p>
 
 <h1 align="center">Hi 👋🏼, I'm Mehrsa Mohajeri</h1>
-<h3 align="center">A Passionate Front-End Developer From Iran</h3>
+<h3 align="center">A Passionate Front-End Developer</h3>
 
 ## 💫 About Me:
 - 💬 Ask me about: **Vue, Nuxt, React, Next, Javascript, Typescript, Python, HTML5, CSS3, Bootstrap, Tailwind, SASS**
