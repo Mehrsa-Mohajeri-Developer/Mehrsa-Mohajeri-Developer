@@ -6,7 +6,7 @@
 <h3 align="center">A Passionate Front-End Developer From Iran</h3>
 
 ## 💫 About Me:
-- 💬 Ask me about: **HTML5, CSS3, SASS, Flex, Grid, Bootstrap, Tailwind, Javascript, React, Typescript, Python**
+- 💬 Ask me about: **Javascript, React, Next, Vue, Nuxt, Typescript, Python, HTML5, CSS3, SASS, Bootstrap, Tailwind**
 - 📫 How to reach me: **mehrsa.mohajeri2001@gmail.com**
 - 👨‍💻 All of my projects are available at: **[GitHub](https://github.com/mehrsa-mohajeri-developer)**
 - ⚡ About me: **I'm Mehrsa Mohajeri. A Front-End Developer. Here, you can see my projects and if you have any questions, please ask me. Hope you enjoy ♥️**
