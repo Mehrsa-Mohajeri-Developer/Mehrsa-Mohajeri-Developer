@@ -11,9 +11,9 @@
 - 👨‍💻 All of my projects are available at: **[GitHub](https://github.com/mehrsa-mohajeri-developer)**
 - ⚡ About me: **I'm Mehrsa Mohajeri. A Front-End Developer. Here, you can see my projects and if you have any questions, please ask me. Hope you enjoy ♥️**
 
-
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fmehrsa_mohajeri_developer%2F&is_from_rle) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehrsa-mohajeri-developer/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mehrsa_mohajeri_developer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehrsa-mohajeri-developer/) 
 
 ## 💻 Tech Stack:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D) 
@@ -33,10 +33,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=Mehrsa-Mohajeri-Developer&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mehrsa-Mohajeri-Developer&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrsa-Mohajeri-Developer&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mehrsa-Mohajeri-Developer&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mehrsa-Mohajeri-Developer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
